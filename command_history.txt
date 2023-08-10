@@ -1,0 +1,793 @@
+    1  la -al
+    2  mkdir 
+    3  ls-al
+    4  la -al
+    5  la /mnt/
+    6  cd Desktop/
+    7  cd Video/
+    8  cd~/Desktop
+    9  cd ~/Desktop
+   10  clear
+   11  cd /mnt/c
+   12  ls -al
+   13  cd Users/
+   14  cd cb
+   15  cd Desktop
+   16  cd Buruk
+   17  cd OneDrive
+   18  ls -al
+   19  touch buruk.html
+   20  cd Buruk
+   21  ls -al
+   22  cd OneDrive
+   23  git status
+   24  mkdir projects
+   25  ls
+   26  ls -a
+   27  cd Downloads
+   28  cd video
+   29  ls
+   30  cd downloads
+   31  cd Downloads
+   32  git init
+   33  ls
+   34  git init
+   35  git status
+   36  ls -a
+   37  ls .git
+   38  touch newproject.txt
+   39  git status
+   40  cd Buruk
+   41  clear
+   42  cd Buruk/
+   43  cd c
+   44  ;s 
+   45  ls
+   46  ;3~cle
+   47  clear
+   48  close
+   49  man
+   50  man man
+   51  b
+   52  -b
+   53  touch boy.txxt
+   54  ls
+   55  mkdir video
+   56  cd video
+   57  my web,html
+   58  touch MyPortfolio,html
+   59  code MyPortfolio,html
+   60  code MyPortfoli.html
+   61  ls
+   62  ls -l
+   63  ls -la
+   64  cs~
+   65  ls -la
+   66  ;ess .bashrc
+   67  less .bashrc
+   68  q
+   69  less .profile
+   70  git init
+   71  ls
+   72  mkdir webprojects
+   73  ls 
+   74  cd webproject
+   75  cd webprojects
+   76  touch myPortfolio.html
+   77  touch myPortfolio.css
+   78  touch myPortfolio.js
+   79  ls
+   80  cd myPortfolio.html
+   81  cd  myPortfolio.html
+   82  code
+   83  git status
+   84  git add
+   85  vi 
+   86  cd 
+   87  touch MyPortfilo.html
+   88  pwd
+   89  cd..
+   90  cd ..
+   91  cd c/user/download
+   92  mkdir  c/user/download
+   93  mkdir prjects
+   94  cd projects
+   95  cd project
+   96  Portfolio
+   97  cd   Portfolio
+   98  git init
+   99  git status
+  100  touch buruk.html
+  101  ls
+  102  vi
+  103  git status
+  104  git add.buruk.html
+  105  git --help
+  106  git .add
+  107  git add.portfolio
+  108  git add buruk.html
+  109  git statu
+  110  git status
+  111  git commit -m"Dont worry nothing has changed"
+  112  git config --global user.email"buraamekdi15@gmail.com"
+  113  git config --global user.name"buruk"
+  114  git commit -m"Dont worrygit config --global user.name"buruk" nothing has changed"
+  115  cat buruk.html
+  116  vi buruk.html
+  117  pwd
+  118  mkdir meta
+  119  cd 
+  120  pwd
+  121  cd mnt
+  122  cd e
+  123  cd ..
+  124  cd e
+  125  cd \e
+  126  cd /mnt
+  127  cd /e
+  128  pwd
+  129  d /e
+  130  cd /e
+  131  cd /meta
+  132  cd /mnt/e
+  133  cd /meta
+  134  la -l
+  135  cd meta
+  136  cd projects
+  137  ls -l
+  138  cd archive
+  139  touch  erorrs.txt
+  140  ls -l
+  141  cat buruk.txt | erorrs.txt
+  142  mkdir Meta-Projects
+  143  cd  Meta-Projects
+  144  git clone https://github.com/Buruk4Abebe/buruks-meta-projects.git
+  145  ls 
+  146  cd buruks-meta-projects
+  147  ls
+  148  git status
+  149  touch buruk.txt
+  150  git statys
+  151  git status
+  152  git --stage buruk.txt
+  153  stage buruk.txt
+  154  git add buruk.txt
+  155  git status
+  156  git add README.md
+  157  git status
+  158  commit -m"New file is added"
+  159  git status"New filr buruk.txt is added"
+  160  git commit -m "New filr buruk.txt is added"
+  161  git config --global user.email"programingnub4@gmail.com"
+  162  git config --global user.name"Buruk4Abebe"
+  163  git commit -m "New filr buruk.txt is added"
+  164  git config --global user.email"programingnub4@gmail.com"
+  165  git config --global user.name"Buruk4Abebe"
+  166  git commit -m "New filr buruk.txt is added"
+  167  git init
+  168  git commit -m "New filr buruk.txt is added"
+  169  git config -- user.email "programingnub4@gmail.com"
+  170  su
+  171  su 
+  172  su
+  173  pwd
+  174  ls
+  175  git checkout -B feature/lesson
+  176  touch text2.txt
+  177  git add text2.txt
+  178  git status
+  179  git commit -m"Just text2.txt is added"
+  180  git config --global user.email "programingnub4@gmail.com"
+  181  git config --global user.email "burramekdi15@gmail.com"
+  182  git commit -m"Just text2.txt is added"
+  183  git config --global user.email "burramekdi15@gmail.com"
+  184  git config --global user.name "Buruk4Abebe"
+  185  git commit -m"Just text2.txt is added"
+  186  git push -u feature/lesson
+  187  git checkout -B feature/lesson
+  188  ls -l
+  189  git add buruk.txt
+  190  git commit -m"buruk.txt is added"
+  191  git status
+  192  git branch
+  193  pwd
+  194  ls
+  195  git push -u origin feature/lesson
+  196  $ git remote -v
+  197  > origin  https://github.com/OWNER/REPOSITORY.git (fetch)
+  198  > origin  https://github.com/OWNER/REPOSITORY.git (push)
+  199  $ git remote -v
+  200  > origin  https://github.com/OWNER/REPOSITORY.git (fetch)
+  201  > origin  https://github.com/OWNER/REPOSITORY.git (push)git remote -v
+  202  git remote -v
+  203  git remote set-url origin git@github.com:OWNER/REPOSITORY.git
+  204  git push -u origin feature/lesson
+  205  clear
+  206  pwd
+  207  git status
+  208  ls
+  209  git push originfeature/lesson
+  210  git push origin feature/lesson
+  211  git push originfeature/lesson
+  212  git push origin feature/lesson
+  213  cd Meta-Projects
+  214  cd ..
+  215  cd buruk
+  216  mkdir buruk
+  217  cd buruk
+  218  git clone https://github.com/Buruk4Abebe/buruk.git1~
+  219  cd ..
+  220  cd Meta-Projects
+  221  cd Meta-projects
+  222  cd buruk
+  223  git clone https://github.com/Buruk4Abebe/buruk.git1~
+  224  cd ..
+  225  vd ..
+  226  cd ..
+  227  clear
+  228  pwd
+  229  git status
+  230  mkdir metaproject
+  231  cd metaproject
+  232  git clone https://github.com/Buruk4Abebe/metaproject.git
+  233  ls 
+  234  cd metaproject
+  235  git status
+  236  touch text.txt
+  237  git status
+  238  git add text.txt
+  239  git status
+  240  git commit -m"text.txt is added"
+  241  pwd 
+  242  git status
+  243  git checkout -B  future/lesson
+  244  git branch
+  245  touch text2.txt
+  246  git status
+  247  git add text2.txt
+  248  git status
+  249  git push -u origin futre/lesson
+  250  git push -u origin future/lesson
+  251  git status
+  252  git checkout main
+  253  git pull
+  254  ls
+  255  cd ..
+  256  mkdir my-second-repo
+  257  cd my-second-repo
+  258  git init
+  259  git remot
+  260  git remote
+  261  cd ..
+  262  cd metaproject
+  263  git remote -v
+  264  cd ..
+  265  cd my-second-repo
+  266  git remote add origin  https://github.com/Buruk4Abebe/metaproject.git (fetch)
+  267  git remote add origin  https://github.com/Buruk4Abebe/metaproject.git 
+  268  git remote -v
+  269  git pull
+  270  git chackout main
+  271  ls
+  272  git checkout main
+  273  ls
+  274  git main
+  275  git status
+  276  git push origin main
+  277  > Buruk:
+  278  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
+  279  git push origin main
+  280  clear
+  281  git push origin main
+  282  cd ..
+  283  ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+  284  cd User/Buruk/metaproject
+  285  cd Yser
+  286  cd User
+  287  cd user
+  288  cd Users
+  289  cd Buruk
+  290  cd metaprojects
+  291  cd metaproject
+  292  ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+  293  ssh-keygen -t rsa -b 4096 -C "buraamekdi15@gmail.com"
+  294  cd metaproject
+  295  cd ..
+  296  ls
+  297  ls -l
+  298  cd metaprojects
+  299  mkdir metaprojects
+  300  cd metaprojects
+  301  touch abebe.txt
+  302  touch abel.txt
+  303  git sttus
+  304  git status
+  305  git init
+  306  git status
+  307  git add abebe.txt
+  308  git statyus
+  309  git status
+  310  git add abel.txt
+  311  git status
+  312  git push 
+  313  git remote add metaproject
+  314  git push metaprojects
+  315  got statis
+  316  clear
+  317  git sttus
+  318  git status
+  319  ssh-keygen -t ed25519 -C "your_email@example.com"
+  320  ssh-keygen -t ed25519 -C "programingnub4@gmail.com"
+  321  git clone git@github.com:Buruk4Abebe/buruk.git
+  322  pbcopy < ~/.ssh/id_ed25519.pub
+  323  clear
+  324  shh keygen -t ed25519 -c "programingnub4@gmail.com"
+  325  ssh keygen -t ed25519 -c "programingnub4@gmail.com"
+  326  ssh-keygen -t ed25519 -C "programingnub4@gmail.com"
+  327  eval $(ssh-agent -s)
+  328  ssh-add ~/.shh/id_rsa
+  329  ssh-add ~/.shh/id_ed25519
+  330  ssh-add ~/.shh/id_ed25519.pub
+  331  ssh-add ~/.shh/home/buruk/.ssh/id_ed25519
+  332  ssh-add ~/.shh/config
+  333  touch ~/.ssh/config
+  334  vim ~/.ssh/config
+  335  ssh-add ~/.ssh/id_ed25519
+  336  cat ~/.ssh/id_ed25519.pub
+  337  ssh git@github.com
+  338  cd ..
+  339  cd metaproject
+  340  ls
+  341  mkdir metaproject
+  342  cd metaproject
+  343  git clone git@github.com:Buruk4Abebe/buruk.git
+  344  git ststus
+  345  git status
+  346  ls -l
+  347  cd buruk
+  348  ls -l
+  349  touch text.txt
+  350  git status
+  351  git add yexy.txt
+  352  git add text.txt
+  353  git status
+  354  git push origin main
+  355  git status
+  356  git commit -m"text.txt is added"
+  357  git push origin main
+  358  cat text.txt
+  359  git pull
+  360  cat text.txt
+  361  git checkout -b
+  362  mkdir branch 2
+  363  git checkout branch 2
+  364  git checkout -b branch 2
+  365  cd ..
+  366  cd buruk
+  367  git checkout -B feature/lesson
+  368  git branch
+  369  git touch text2.txt
+  370  touch text2.txt
+  371  git add text2.txt
+  372  git push text2.txt
+  373  git commit -m"text2.txt is added agine."
+  374  git push 
+  375  git push text2.txt
+  376  git push -u origin feature/lesson
+  377  git status
+  378  . git
+  379  cd .git
+  380  cat git
+  381  cat HEAD
+  382  git branch
+  383  git checkout feature/lesson
+  384  git branch
+  385  less .git/HEAD
+  386  ls
+  387  cat HEAD
+  388  git checkout buruk
+  389  git branch
+  390  git checkout main
+  391  cat HEAD
+  392  git checkout buruk
+  393  cat HEAD
+  394  git branch
+  395  git checkout main
+  396  git branch
+  397  git checkout -b main
+  398  git branch
+  399  git checkout -b buruk
+  400  git branch
+  401  cat .git buruk
+  402  cat .git main
+  403  cat .git/HEAD
+  404  git checkout -b main
+  405  git branch
+  406  git checkout origin
+  407  git checkout main
+  408  clear
+  409  git branch
+  410  git checkout main
+  411  cd ..
+  412  git branch
+  413  git checkout main
+  414  gcat .git/HEAD
+  415  cat .git/HEAD
+  416  git checkout feature/lesson
+  417  cat .git/HEAD
+  418  gir checkout main
+  419  git checkout main
+  420  cat .git/HEAD
+  421  ls 
+  422  git blame README.md
+  423  git init
+  424  cd ..
+  425  cd metaproject
+  426  git status
+  427  ls
+  428  cd metaproject
+  429  ls
+  430  git status
+  431  git push metaproject
+  432  git push text2.txt
+  433  git push remote text2.txt
+  434  cd ..
+  435  mkdir buruk
+  436  mkdir Meta
+  437  mkdir MetaProject
+  438  cd buruk
+  439  mkdir Meta
+  440  cd Meta
+  441  git  clone git@github.com:Buruk4Abebe/buruk.git 
+  442  ssh-keygen -t ed25519 -C "your_email@example.com"
+  443  gh auth login
+  444  apt install gh
+  445  pwd
+  446  cd 
+  447  cd ..
+  448  cd /mnt
+  449  cd /user
+  450  cd /User
+  451  cd user
+  452  cd User
+  453  cd c
+  454  cd user
+  455  cd User
+  456  cd /User
+  457  cd users
+  458  cd buruk
+  459  clear
+  460  git clone git@github.com:Meta-Front-End-Developer-PC/m4l1_managing_a_project.git
+  461  cd m4l1_managing_a_project
+  462  cat class.txt
+  463  vim 
+  464  cat class.txt
+  465  vim 
+  466  cat class.txt
+  467  vim
+  468  git diff
+  469  git status
+  470  git diff
+  471  git status
+  472  git diff
+  473  vim class.txt
+  474  git diff
+  475  git add class.txt
+  476  git commit -m"green ivory Gray and Ewd are replaced by Blue Charcoal Purp;e and Redd"
+  477  git push
+  478  git branch
+  479  git checkout 
+  480  git checkout -b m4l1_managing_a_project
+  481  git status
+  482  git push
+  483  clear
+  484  cd ..
+  485  mkdir html and css in depth
+  486  cd  html and css in depth
+  487  ls
+  488  mkdir advanced
+  489  cd advanced
+  490  code
+  491  touch advanced.html
+  492  cd advanced.html
+  493  cd 
+  494  cd
+  495  cd ..
+  496  cd e
+  497  cd mnt
+  498  cd e
+  499  mkdir Web Projects
+  500  cd Web Projects
+  501  cd 
+  502  cd mnt
+  503  cd ..
+  504  cd mnt
+  505  cd ..
+  506  cd mnt
+  507  cd e
+  508  ls -l
+  509  mkdir web
+  510  mkdir Myweb
+  511  cd Myweb
+  512  touch first.html
+  513  code first.html
+  514  touch first.css
+  515  cd ..
+  516  cd e
+  517  cd Myweb
+  518  code first.html
+  519  cd Myweb
+  520  git checkout HEAD<first.txt>
+  521  git log --<first.txt>
+  522  git status
+  523  git reset -hard HEAD~1
+  524  git reset --hard HEAD~1
+  525  git reset -hard HEAD~1
+  526  git checkout HEAD <first.txt>
+  527  ls
+  528  ls -a
+  529  git 
+  530  git add first.txt
+  531  rm second.txt
+  532  ls
+  533  rm first.tst
+  534  ls
+  535  ls -a
+  536  git checkout HEAD <first.tst>
+  537  git checkout first.tst
+  538  ls
+  539  git add first.txt
+  540  gir rm first.tst
+  541  touch first.txt
+  542  git add first.txt
+  543  git rm first.tst
+  544  git status
+  545  ls
+  546  git status
+  547  touch second.txt
+  548  ls
+  549  git status
+  550  git add second.txt
+  551  git status
+  552  ls
+  553  mv second.txt first.txt
+  554  ls
+  555  cat first.txt
+  556  ls
+  557  vi first.txt
+  558  ls
+  559  cat first.txt
+  560  git status
+  561  git stash
+  562  git status
+  563  git log
+  564  ls
+  565  git stash pop
+  566  git status
+  567  git log
+  568  touch buruk.txt
+  569  git stash pop
+  570  git add.
+  571  git add .
+  572  ls
+  573  git stash
+  574  git stash pop
+  575  git commit 
+  576  ls al
+  577  ls a
+  578  ls
+  579  mkdir gitprojects
+  580  cd gitprojects
+  581  touch first.txt
+  582  git status
+  583  git init
+  584  touch first.tst
+  585  git status
+  586  git add .
+  587  git stutes
+  588  git status
+  589  git commit -m "My first git filr of the course"
+  590  vi first.txt
+  591  git status
+  592  git commit
+  593  git status
+  594  git add
+  595  git add firts.txt
+  596  git add first.txt
+  597  git status
+  598  git log
+  599  touch second.txt
+  600  git add seconed.txt
+  601  git add second.txt
+  602  git status
+  603  git log
+  604  git log .
+  605  touch second.txt
+  606  vi second.txt
+  607  git stats
+  608  git status
+  609  git add second.txtx
+  610  git add second.txt
+  611  git status
+  612  git log
+  613  rm second.txt
+  614  git status
+  615  git log
+  616  git reset
+  617  git log
+  618  git reset a98e1fc88136f53e6ebe9457a95fe8d4fc9a1494
+  619  git log
+  620  ls
+  621  rm first.txt
+  622  ls
+  623  touch second.txt
+  624  ls
+  625  git status
+  626  git add second.txt
+  627  ls
+  628  git status
+  629  git add first.txt
+  630  git status
+  631  ls
+  632  rm first.txt
+  633  ls
+  634  ls -a
+  635  rm second.txt
+  636  git status
+  637  ls
+  638  git log
+  639  git reseta98e1fc88136f53e6ebe9457a95fe8d4fc9a1494
+  640  git reset a98e1fc88136f53e6ebe9457a95fe8d4fc9a1494
+  641  ls
+  642  git log
+  643  git add.
+  644  git add .
+  645  git log
+  646  git status
+  647  ls
+  648  cat first.txt
+  649  git cat first.txt
+  650  cat first.txt
+  651  cat first.tst
+  652  git cat first.tst
+  653  git log
+  654  git reset a98e1fc88136f53e6ebe9457a95fe8d4fc9a1494
+  655  git add first.txt
+  656  git status
+  657  cat first.txt
+  658  git checkout
+  659  ls
+  660  git checkout --first.txt
+  661  git checkout first.txt
+  662  ls
+  663  git restor a98e1fc88136f53e6ebe9457a95fe8d4fc9a1494
+  664  git checkout HEAD <first.txt>
+  665  bash
+  666  ls
+  667  cd gitprojects
+  668  ls
+  669  git status
+  670  git commit -m"Best"
+  671  rm buruk.txt
+  672  git checkout HEAD<buruk.txt>
+  673  git log
+  674  git reset a98e1fc88136f53e6ebe9457a95fe8d4fc9a1494 
+  675  git checkout HEAD<buruk.txt>
+  676  git checkout <buruk.txt>
+  677  git clone git@github.com:Buruk4Abebe/Github.git
+  678  cd ..
+  679  cd..
+  680  cd ..
+  681  cd mnt
+  682  cd c
+  683  cd user
+  684  cd User
+  685  cd/User
+  686  ls 
+  687  ls -a
+  688  cd Users
+  689  cd Buruk
+  690  cd gitprojects
+  691  ls 
+  692  git log
+  693  push main
+  694  git push origin main
+  695  git commit
+  696  git add second.txt
+  697  git status
+  698  git add .
+  699  git status
+  700  git commit
+  701  git status
+  702  git commit -m "ThankYou"
+  703  git push origin main
+  704  git log
+  705  git clone git@github.com:Buruk4Abebe/buruk.git
+  706  git status
+  707  git branch
+  708  ls
+  709  gti push
+  710  git push
+  711  git push origin main
+  712  git push main
+  713  git status
+  714  git clone
+  715  git clone git@github.com:Buruk4Abebe/m4l1_managing_a_project.git
+  716  git status
+  717  git push origin main 
+  718  git pull
+  719  git pull main
+  720  git pull main origin
+  721  git cllone git@github.com:Buruk4Abebe/react.git
+  722  git clone git@github.com:Buruk4Abebe/react.git
+  723  git clone git@github.com:Buruk4Abebe/mimbo.git
+  724  git status
+  725  git pull
+  726  ls
+  727  cd mimbo
+  728  ls
+  729  cd style.css
+  730  cat style.css
+  731  code style.css
+  732  ls
+  733  cat  comments.php
+  734  ls
+  735  gir push origin main
+  736  git push
+  737  ls
+  738  ls -a
+  739  touch Readme.txt
+  740  add Readme.txt
+  741  git add Readme.txt
+  742  git commit -m"edithing the hover effect"
+  743  git push
+  744  ls
+  745  git status
+  746  git log
+  747  git branch buruk
+  748  git checkout buruk
+  749  git add,
+  750  git add ,
+  751  git add .
+  752  git commit -m"i made my own branch"
+  753  gti status
+  754  git statis
+  755  git status
+  756  gti push -f
+  757  git push -f
+  758  git checkout
+  759  git checkout main
+  760  git checkout buruk
+  761  touch b.txt
+  762  git add.
+  763  git add .
+  764  git commit "New"
+  765  git commit -m "New"
+  766  git status
+  767  gitlog
+  768  git log
+  769  git reset 55e400cc0255a2de217085c57098d8592f11f225
+  770  git status
+  771  git log
+  772  git add .
+  773  git stash
+  774  git push orign butuk -f
+  775  git push
+  776  git push origin
+  777  git log
+  778  git reset 1eab1227f243d80ecd031138b5aa1213bb74fc17
+  779  git add .
+  780  git stash
+  781  git push origin buruk -f
+  782  git log
+  783  git status
+  784  git log
+  785  git stash list
+  786  git stash apply stash@{1}
+  787  ls
+  788  git add .]
+  789  git add .
+  790  git commit -m"i just recovered the last file"
+  791  git push
+  792  git log
+  793  history > command_history.txt
